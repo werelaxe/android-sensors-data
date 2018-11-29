@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sensors data</string>
+    <string name="xDefaultValue">X: 0.0</string>
+    <string name="yDefaultValue">Y: 0.0</string>
+    <string name="zDefaultValue">Z: 0.0</string>
+    <string name="accelerometerLabel">Accelerometer:</string>
+    <string name="rotationLabel">Rotation:</string>
+    <string name="magneticLabel">Magnetic:</string>
+    <string name="connectedStatus">Connected</string>
+    <string name="disconnectedStatus">Disconnected</string>
+    <string name="rcnBtnLabel">Reconnect</string>
+    <string name="defaultHost">0.0.0.0</string>
+    <string name="defaultPort">8080</string>
+</resources>
